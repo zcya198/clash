@@ -1,0 +1,26 @@
+# IP段匹配
+# IP-CIDR,142.171.133.131/32,no-resolve
+
+
+# 国外DNS
+# DOMAIN-SUFFIX,dns.google
+# DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
+# DOMAIN-SUFFIX,dot.sb
+
+
+# PT站点网站
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,dicmusic.club
+DOMAIN-SUFFIX,crabpt.vip
+DOMAIN-SUFFIX,haidan.video
+# DOMAIN-SUFFIX,m-team.cc
+# DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,pthome.net
+# DOMAIN-SUFFIX,soulvoice.club
+DOMAIN-SUFFIX,ptsbao.club
+DOMAIN-SUFFIX,discfan.net
+# DOMAIN-SUFFIX,hddolby.com
+# DOMAIN-SUFFIX,keepfrds.com
+
+
+# IP-CIDR,8.8.8.8/32,no-resolve
