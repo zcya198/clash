@@ -23,5 +23,7 @@ DOMAIN-SUFFIX,discfan.net
 # DOMAIN-SUFFIX,hddolby.com
 # DOMAIN-SUFFIX,keepfrds.com
 
+DOMAIN-SUFFIX,makeoxc.co
+
 
 # IP-CIDR,8.8.8.8/32,no-resolve
