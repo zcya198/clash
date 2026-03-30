@@ -1,6 +1,6 @@
-# API直连名单 - 走直连的API服务（不走代理）
-# 用途：解决部分API服务通过代理时TLS/SSL协议不兼容的问题
-# 使用方式：在 custom_proxy_group 中引用 🔍 API直连 策略组
+# 自定义AI API名单 
+# 用途：解决部分AI API服务通过代理时TLS/SSL协议不兼容的问题
+# 使用方式：在 custom_proxy_group 中引用 🔍 AI-API 策略组
 
 DOMAIN,api.tavily.com
 DOMAIN,tavily.com
