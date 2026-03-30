@@ -6,9 +6,10 @@ DOMAIN,api.tavily.com
 DOMAIN,tavily.com
 
 
-DOMAIN,api.jina.com
-DOMAIN,jina.com
-
 DOMAIN,api.jina.ai
 DOMAIN,jina.ai
+
+
+DOMAIN,api.jina.com
+DOMAIN,jina.com
 
