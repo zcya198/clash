@@ -19,17 +19,13 @@ DOMAIN,prompts.com
 
 DOMAIN,flymux.com
 
-# 1. 核心 API 聚合源 (解决爬虫报错的关键)
-
 DOMAIN,busiyi.world
 DOMAIN,newsnow.busiyi.world
 DOMAIN,vvhan.com
 DOMAIN,tophub.today
 
-  
- # 2. RSS 订阅源 (根据你的配置文件需求)
+
 DOMAIN,hnrss.org
-DOMAIN,yahoo.com
 
 
 
